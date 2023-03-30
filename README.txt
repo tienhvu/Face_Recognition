@@ -1,5 +1,10 @@
+You can dowload 
 /*Python 3.10.0
+(https://www.python.org/downloads/windows/)
+
 Pycharm 2021.2.3
+(https://blog.jetbrains.com/pycharm/2021/10/2021-2-3/)
+
 Anacoda 3-2021.11
 (https://www.anaconda.com/products/distribution#window)
 */
