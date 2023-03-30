@@ -1,2 +1,0 @@
-# Face_Recognition
-TTCS
