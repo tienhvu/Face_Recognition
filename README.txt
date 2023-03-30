@@ -1,4 +1,4 @@
-You can dowload 
+Dowload
 /*Python 3.10.0
 (https://www.python.org/downloads/windows/)
 
