@@ -7,6 +7,8 @@ Pycharm 2021.2.3
 
 Anacoda 3-2021.11
 (https://www.anaconda.com/products/distribution#window)
+or
+(https://www.npackd.org/p/anaconda64/2021.11)
 */
 
 #cmake(3.25.2)
