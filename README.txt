@@ -21,7 +21,7 @@ conda install -c conda-forge dlib
 conda install -c menpo opencv
 
 #face recognition
-pip insall face_recognition
+pip install face_recognition
 
 
 #flask
